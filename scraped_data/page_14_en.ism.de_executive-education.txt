@@ -1,0 +1,650 @@
+Data Science Programs | Practical and 100% English | ISM 
+
+
+
+
+
+
+[Skip to main content](#tm-main)
+
+[![ISM Logo](/templates/yootheme/cache/7c/logo-ism-7c972c8f.png)](https://en.ism.de/)
+
+- [![](/images/ism-images/allgemein/de-mobile.png#thumbnail=20%2C20%2C&srcset=1)](https://ism.de)
+
+- Full Degree Students
+  - [Bachelor's Programs](/full-degree-students/bachelor-programs)
+  - [Master's Programs](/full-degree-students/master-programs)
+  - [MBA Programs](/full-degree-students/mba-programs)
+- Exchange Students
+  - [Your Study Abroad Semester at ISM](/exchange-students/study-abroad-semester)
+  - [International Business Certificate](/exchange-students/international-business-certificate)
+  - [Application](/exchange-students/application)
+- Prospective Students
+  - [Why ISM?](/prospective-students/why-ism)
+  - [Rankings and Figures](/prospective-students/rankings-figures)
+  - [What to study](/prospective-students/what-to-study)
+  - [Study Finder](/prospective-students/study-finder)
+  - [Study financing](/prospective-students/study-financing)
+  - [Plan your studies at ISM](/prospective-students/plan-your-studies)
+  - [Student Life in Germany](/prospective-students/student-life-in-germany)
+  - [FAQs](/prospective-students/faqs)
+  - [Request info flyers](/request-info-flyers)
+- PhD & DBA Programs
+  - [Doctoral Programs](/phd-dba/doctoral-programs)
+  - [Strathclyde Business School](/phd-dba/strathclyde-business-school)
+  - [Bond University](/phd-dba/bond-university)
+  - [Lovely Professional University (LPU)](/phd-dba/lovely-professional-university)
+  - [Edinburgh Napier University (DBA)](/phd-dba/edinburgh-napier-university)
+  - [Westcliff University (DBA)](/phd-dba/westcliff-university)
+- [Executive Education](/executive-education)
+- Campuses
+  - [Overview](/campuses/overview)
+  - [Dortmund](/campuses/dortmund)
+  - [Frankfurt/Main](/campuses/frankfurt-main)
+  - [Munich](/campuses/munich)
+  - [Hamburg](/campuses/hamburg)
+  - [Cologne](/campuses/cologne)
+  - [Stuttgart](/campuses/stuttgart)
+  - [Berlin](/campuses/berlin)
+  - [Distance Learning](/campuses/distance-learning)
+- Services
+  - [Study Advisor](/services/study-advisor)
+  - [International Office](/services/international-office)
+    - [Financing your Study Abroad](/services/international-office/study-abroad-scholarships)
+  - [Career Center](/services/career-center)
+  - [Student Office](/services/student-office)
+  - [Language Center](/services/language-center)
+  - [Library](/services/library)
+  - [Startup Consulting](/services/startup-consulting)
+  - [Alumni Management](/services/alumnimanagement)
+- University
+  - [Head of University](/university/head-university)
+  - [Director of studies](/university/director-studies)
+  - [Research Activities](/university/research-activities)
+  - [Board of Trustees](/university/board-of-trustees)
+  - [Sustainability at ISM](/university/sustainability-at-ism)
+  - [Press](/university/press)
+- [Blog & News](/blog)
+
+
+
+[![ISM Logo](/templates/yootheme/cache/7c/logo-ism-7c972c8f.png)](https://en.ism.de/)
+
+- Full Degree Students
+
+  - [Bachelor's Programs](/full-degree-students/bachelor-programs)
+  - [Master's Programs](/full-degree-students/master-programs)
+  - [MBA Programs](/full-degree-students/mba-programs)
+- Exchange Students
+
+  - [Your Study Abroad Semester at ISM](/exchange-students/study-abroad-semester)
+  - [International Business Certificate](/exchange-students/international-business-certificate)
+  - [Application](/exchange-students/application)
+- Prospective Students
+
+  - [Why ISM?](/prospective-students/why-ism)
+  - [Rankings and Figures](/prospective-students/rankings-figures)
+  - [What to study](/prospective-students/what-to-study)
+  - [Study Finder](/prospective-students/study-finder)
+  - [Study financing](/prospective-students/study-financing)
+  - [Plan your studies at ISM](/prospective-students/plan-your-studies)
+  - [Student Life in Germany](/prospective-students/student-life-in-germany)
+  - [FAQs](/prospective-students/faqs)
+  - [Request info flyers](/request-info-flyers)
+- PhD & DBA Programs
+
+  - [Doctoral Programs](/phd-dba/doctoral-programs)
+  - [Strathclyde Business School](/phd-dba/strathclyde-business-school)
+  - [Bond University](/phd-dba/bond-university)
+  - [Lovely Professional University (LPU)](/phd-dba/lovely-professional-university)
+  - [Edinburgh Napier University (DBA)](/phd-dba/edinburgh-napier-university)
+  - [Westcliff University (DBA)](/phd-dba/westcliff-university)
+- [Executive Education](/executive-education)
+- Campuses
+
+  - [Overview](/campuses/overview)
+  - [Dortmund](/campuses/dortmund)
+  - [Frankfurt/Main](/campuses/frankfurt-main)
+  - [Munich](/campuses/munich)
+  - [Hamburg](/campuses/hamburg)
+  - [Cologne](/campuses/cologne)
+  - [Stuttgart](/campuses/stuttgart)
+  - [Berlin](/campuses/berlin)
+  - [Distance Learning](/campuses/distance-learning)
+- Services
+
+  - [Study Advisor](/services/study-advisor)
+  - [International Office](/services/international-office)
+  - [Career Center](/services/career-center)
+  - [Student Office](/services/student-office)
+  - [Language Center](/services/language-center)
+  - [Library](/services/library)
+  - [Startup Consulting](/services/startup-consulting)
+  - [Alumni Management](/services/alumnimanagement)
+- University
+
+  - [Head of University](/university/head-university)
+  - [Director of studies](/university/director-studies)
+  - [Research Activities](/university/research-activities)
+  - [Board of Trustees](/university/board-of-trustees)
+  - [Sustainability at ISM](/university/sustainability-at-ism)
+  - [Press](/university/press)
+- [Blog & News](/blog)
+
+
+
+# Data Science Programs
+
+Digitalization is one of the most important developments of our time. Many new technologies and businesses use **data science insights** to gain strategic benefits. Data science is central to digitalization because it enables the extraction of actionable insights from vast digital data, driving smarter decision-making, automation, and innovation across industries.
+
+Its importance has grown rapidly in recent years due to the explosion of data (big data), advances in computing power, and breakthroughs in AI and machine learning, making data-driven strategies essential for competitiveness and efficiency.
+
+[Request a flyer and find out more](/request-info-flyers)
+
+![data science study](/templates/yootheme/cache/2d/master-vz-ueberblick-2d4d6440.jpeg)
+
+---
+
+## Which Data Science Degree can you Study?
+
+[![business management bachelor programs at ISM](/templates/yootheme/cache/57/bachelor-vollzeit-57ae9c02.jpeg)](/bachelor)
+
+### Data Science Bachelor's
+
+- [Bachelor of Applied Data Science & Business Analytics](/full-degree-students/bachelor-programs/bachelor-data-science-and-business-analytics/overview)  
+
+  This program combines data science techniques with business analytics, addressing the growing demand for data-driven decision-making skills.​
+
+  **Available in:** [Dortmund](/campuses/dortmund "ISM Dortmund"), [Frankfurt/Main](/campuses/frankfurt-main "ISM university in Frankfurt am Main"), [Munich](/campuses/munich "ISM Munich"), [Hamburg](/campuses/hamburg "ISM Hamburg campus")
+
+  **Start date:** winter semester (September/October)
+
+  **Curriculum:**  [study content](/full-degree-students/bachelor-programs/bachelor-data-science-and-business-analytics/program-content)
+
+[![ism business management bachelor in distance learning](/templates/yootheme/cache/b4/bachelor-fernstudium-b4f1c6da.jpeg)](/bachelor)
+
+### Data Science Master's
+
+- [Master of Data Science & Business Intelligence](/full-degree-students/bachelor-programs/bachelor-data-science-and-business-analytics/overview)  
+
+  The Master in Data Science is a four-semester, English-taught program blending advanced business knowledge with IT, featuring a semester abroad, internships, and an optional double degree.
+
+  **Available in:** [Dortmund](/campuses/dortmund "ISM Dortmund campus"), [Munich](/campuses/munich "ISM Munich university "), [Hamburg](/campuses/hamburg "ISM Hamburg"), [Stuttgart](/campuses/stuttgart "ISM Stuttgart university")
+
+  **Start date:** winter semester (September/October)  
+  **Curriculum:**  [study content](/full-degree-students/master-programs/master-business-intelligence/program-content "Curriculum of the Master of Data Science")
+
+- Online Data Science Master’s - [Master of Applied Business Data Science](https://ism-fernstudium.de/en/masters/data-science-masters)
+
+  The Applied Business Data Science Online Master at ISM is a flexible, English-taught online program that combines business and data science, with specializations in AI, big data, and analytics to prepare students for data-driven decision-making.
+
+  **Available** online.   
+  **Start date:** anytime  
+  **Curriculum**: [study content](https://ism-fernstudium.de/images/Studienplaene/pdf/Coursehandbook-Master-AppliedBusinessDataScience.pdf "Curriculum of the Online Data Science Masters at ISM")
+
+[Request info flyers](/request-info-flyers)
+
+[Request a consultation](/consultation-form)
+
+[Apply now](/admission-test-registration)
+
+---
+
+## What defines data science programs?
+
+A Data Science course offers you the opportunity to gain **in-depth knowledge in the fields of data science, business analytics and** - sometimes - **business administration**. Particular emphasis is placed on the development, interpretation and application of big data. These systems are crucial for the optimization of business processes and the efficient use of data in companies.
+
+Many international students choose a data science study courses to acquire the necessary knowledge and practical  skills needed for a competitive career and to thrive in the global economy. Data Scientists also earn higher than average salaries and generally report feeling satisfied with the balance between their working and personal lives, so chosing a program in this field is highly regarded.
+
+#### What about the ISM data science programs?
+
+The **ISM Data Science degree programs** include various **modules** that will help you develop **both IT and business management skills**, as well as the communication skills. This prepares students as vital links between technical and executive teams, which is highly appreciated by companies nowadays.
+
+The data science **curriculum** equips you with a balanced skill set in data science, business analytics, and strategic management, preparing you for roles that bridge technical expertise and business insight. You will learn - for example - how to plan and implement IT and analytical systems to optimize business processes and make data-driven decisions. This combination of theory and practice is a central component of the Data Science degree at ISM as a university of applied sciences.
+
+**The top modules** will teach you:
+
+- Core Technical skills
+- Core Business Management skills
+- Data Science & Analytical Tools
+- Quantitative & Research Skills
+- Communication & Leadership
+- International & Practical Skills
+
+---
+
+## Entry requirements for data science studies
+
+#### Application documents
+
+At ISM, we perform first a **fast check of your qualification** for a data science degree program in Germany. This as well as the application are completely free of charge. Please submit the following **per email to the study advisor** at your preferred campus:
+
+- **School-leaving certificate or Bachelor's degree** (if already available)
+- **Transcript of records** (translated in English)
+- **Curriculum vitae** (CV)
+- **A** **certificate of English language,** for example TOEFL, IELTS 6.0 or other international one (compulsory for Master, not obligatory for Bachelor)
+- **Copy of your passport** or national ID card
+
+Upon examination and successful verification of your documents, you will be able to register for an [online admission test](/admission-test-registration "Online Admission at ISM").
+
+[#### Application timeframes
+
+We do not have any strict application dates, but **international** **applicants who require visa for Germany** must submit their application documents **by July 15th**for the programs that start in fall.
+
+The admission test is valid for 1 year, so we recommend that you start applying even before having your final school leaving certificate or Bachelor's degree in order to save time and secure yourself **study free discounts of up to 1,500 Euro.**
+
+Please get informed from your country' consulate how long the study visa application process currently takes and prepare acordingly.
+
+Get to know us and find out more about the opportunities to study data science at one of Germany's best business schools.
+
+Get in touch for a consultation](/services/study-advisor)
+
+---
+
+## Why join a data science program in Germany?
+
+![students of data science in germany university](/templates/yootheme/cache/1b/ma-ib-studienprofil-inhalte-1bcf11c7.jpeg)
+
+Joining a data science or business analytics program in Germany that combines data science with business offers the **unique advantage of gaining cutting-edge technical skills alongside strategic business knowledge** in one of Europe’s strongest economies. This is ideal for careers bridging analytics and management in global companies.
+
+- **High-quality education**   
+  German universities provide internationally recognized degrees with strong practical training, oriented towards the current market trends.
+- **Practical teaching**  
+  Private universities like ISM offer competitive programs that are demand-driven. Your studies will be completed by Internships, a semester abroad and real-world company projects as part of the data science programs.
+- **Access to a big market**   
+  As a leading EU economy, Germany is currently investing in digital transformation and thus has a growing demand for data professionals. Germany also offers many career opportunities in data science and IT systems in the top cities.
+- **Gain international exposure**   
+  The study programs are in English, with diverse student communities and global networking opportunities.
+- **Opportunities after graduation**   
+  Germany offers post-study work visas and a strong environment for job seekers.
+
+---
+
+## Your Advantages at a Glance when studying Data Science
+
+High quality education
+
+first-class teaching, internationally AACSB-accredited and with unlimited state accreditation (FIBAA).
+
+Interdisciplinary & future-oriented
+
+students are trained to bridge the gap between data science and management, making them highly valued for their communication and interface skills.
+
+Strong internationality
+
+International students of 84+ nationalities. An integrated semester abroad at one of 20+ partner universities.
+
+A personal teaching atmosphere
+
+study in small learning groups, enjoy individualized support and learn from the best professionals in their field.
+
+Gender-balanced & inclusive
+
+attracts both men and women equally, encouraging tech-savvy candidates to enter the data science and business analytics field.
+
+Close to practice
+
+National, international & guest lecturers who are experts from the business & IT world.
+
+[Book a study consultation](/consultation-form)
+
+[Download information flyer](/download-more-information)
+
+---
+
+## Is a Data Science Degree Worth?
+
+A Data Science course is nowadays generally very much worth it, but the value depends on your goals, background, and how you apply the degree for your future. The career as business and data analyst is one of the most in-demand roles globally, across many industries, such as finance, marketing, healthcare, tech, logistics, and more. It offers stable job chances and competitive compensation.
+
+To see if a data science program is right for you, **ask yourself:**
+
+- **Do you enjoy taking on innovative projects?** You’re excited by cutting-edge technologies like AI, machine learning, and big data.
+- **Are you good at problem-solving?** You like analyzing situations and finding solutions to complex problems.
+- **Are you comfortable with numbers and statistics?** Data doesn’t intimidate you, but you’re curious about what insights it can reveal
+- **Do you have above-average communication skills?** You enjoy presenting your ideas and and collaborating across cross-department teams.
+- **Are you interested in business?** – You want to understand and improve business operations using data.
+- **Do you value flexibility in your career path?** You’re looking for opportunities across different industries, from finance and healthcare to tech and logistics.
+
+If most of these sound like you, data science studies in Germany could be the best choice for you.
+
+**Still wondering what the right study program  for you is?** [Our study advisors](/study-advisors "Study advisors") can help you decide whether a data science degree on-campus or online is right for you, what you can expect in terms of content, what the admission requirements are and what career opportunities await you.
+
+### Your skills
+
+Analytical thinking
+
+Problem solving skills
+
+Mathematical & statistical skills
+
+Communication skills
+
+### Suitable for you if you are interested in:
+
+- Numbers, analysis of data and driving strategic insights
+- Analysing details, but also seeing the bigger picture
+- Working in cross-department teams, for eg. IT and business development
+- A work-life balance enabling career
+
+---
+
+## What can you do with data science degree?
+
+Data science and business analytics graduates are highly valued in the working world due to their extensive data systems and business knowledge, practical insights and communication skills. Regardless of whether you want to work in large international corporations, medium-sized companies or innovative start-ups – a data science degree prepares you for **a wide range of industries.**
+
+A data science program degree from ISM can help you successfully enter this career field with lots of **hands-on practical experience.** You’ll graduate with in-demand big data skills, and will be ready to join fellow data analysts and statisticians across many industries.
+
+Amonth the **data science careers paths** you may decide to take count:
+
+- Data Analyst,
+- Data Scientist,
+- Information Officer,
+- Data Officer,
+- Business Analyst,
+- Business Consultant,
+- Senior Analyst etc.
+
+---
+
+## How long does it take to become a data scientist?
+
+Studying data science is a good idea if you have no background in computer systems or data systems. Entry-level data science positions are often expected to know data base SQL, data visualization tools, and statistical computing You can complete your **Data Science** **Bachelor's full-time** in **6 semesters** and earn 180 ECTS credit points. Also, you can complete the **Data Science Master's in 3 to 4 semesters** (with 90 respectively 120 ECTS), depending whether or not you wish to also take a semester abroad and expand your international experience.
+
+Also, during the data science undergraduate degree, you have the opportunity to complete an **additional seventh semester abroad** if you pick the **"Global Track"**. This option is elective and you will graduate with 210 ECTS credit points. For more information, contact the [study advisors](/services/study-advisor "ISM Study advisors").
+
+## Get started now and request more information
+
+Find out more about our programs from our information brochures.
+
+[Download our flyer](/download-more-information)
+
+---
+
+## Data science accredited programs
+
+International School of Management (ISM) is a private, state-recognized and internationally AACSB-accredited University of Applied Sciences established over 35 years ago (in 1990) and that has **seven campuses in** **top German cities**. For years, the ISM has been featured at the top of various university rankings and is accredited by multiple state and regulatory agencies.
+
+All our study programs meet all the strict quality requirements of the **FIBAA** (Foundation for International Business Administration Accreditation).
+
+ISM is since 2024 **internationally accredited by AACSB**, being the first private German university of applied sciences to be honored at this highest level.
+
+**Unlimited state recognition**: ISM is recognized by the Ministry of Science of North Rhine-Westphalia for an unlimited period of time.
+
+Accreditation through the **German Council of Science and Humanities.** All degree programs also bear the seal of quality of **the German Accreditation Council.**
+
+All ISM online distance learning programs bear the **ZFU** seal of quality.
+
+## [ISM is AACSB accredited, enjoys unlimited state recognition and top rankings](/prospective-students/rankings-figures)
+
+![AACSB accreditation logo](/templates/yootheme/cache/85/AACSB-logo-accredited-853aaa36.jpeg)
+
+The first AACSB-accredited private German university of applied sciences
+
+![CHE University ranking](/templates/yootheme/cache/10/logo-CHE-ranking-107a459b.png)
+
+Excellent results for lecturer quality & practical relevance
+
+![Logo Universum](/templates/yootheme/cache/8f/logo-universum-8fef9163.png)
+
+Ranked as one of the best private German universities
+
+![](/templates/yootheme/cache/ca/logo-multirank-ca34eecf.png)
+
+Excellent results in the Global Multirank
+
+---
+
+## Do you have any questions about studying? Please contact us!
+
+Send us your questions from Monday to Friday. We'll reply from 10 am to 3 pm (CET German time) on weekdays. Looking forward to chat! Alternatively, you can use our ChatBot or send us an email at [study@ism.de](mailto:study@ism.de).
+
+[To the Whatsapp Chat](https://wa.me/4915141976803 "chat with us!")
+
+Our student advisors are happy to answer all your questions about the ISM and our programs as well as financing options in a **personal online appointment.**
+
+Alternatively, you can simply come by your favorite campus on Wednesdays from 2:00 to 4:00 p.m. - no prior registration needed.
+
+[Get in touch for a consultation](/consultation-form "Get in touch for a consultation")
+
+##### Your Bachelor Study Advisors
+
+![pereira](/images/ism-images/verwaltung/pereira.jpg)
+
+Campus Dortmund
+
+**Christopher Pereira**  
+[+49 231.97 51 39-43](tel:+4923197513943)  
+[christopher.pereira@ism.de](mailto:christopher.pereira@ism.de)
+
+![Qian Ye](/images/ism-images/verwaltung/qian-ye.jpg)
+
+Campus Frankfurt
+
+**Qian Ye**  
+[+49 69.66 05 93 67-43](tel:+49696605936743)  
+[qian.ye@ism.de](mailto:qian.ye@ism.de)
+
+![Ana Kammerer](/images/ism-images/verwaltung/kammerer.jpg)
+
+Campus Munich
+
+**Ana Kammerer**  
+[+49 89.2 00 03 50 - 53](tel:+4989200035041)  
+[ana.kammerer@ism.de](mailto:kerim.agi@ism.de)
+
+![Angelina Hallmann](/images/ism-images/verwaltung/hallmann.jpg)
+
+Campus Cologne
+
+**Angelina Hallmann**  
+[+49 221.27 09 95-43](tel:+4922127099543)[angelina.hallmann@ism.de](mailto:angelina.hallmann@ism.de)
+
+![Luigi Serafino](/images/ism-images/verwaltung/serafino.jpg)
+
+Campus Stuttgart
+
+**Luigi Serafino**  
+[+49 711.51 89 62-143](tel:+49711518962143)  
+[luigi.serafino@ism.de](mailto:luigi.serafino@ism.de)
+
+![Marrit Koenig](/images/ism-images/verwaltung/koenig-marrit.jpg)
+
+Campus Berlin
+
+**Marrit Koenig**  
+[+49 30.3 15 19 35-22](tel:+4930315193522)  
+[marrit.koenig@ism.de](mailto:marrit.koenig@ism.de)
+
+![Rebecca Jung](/images/ism-images/verwaltung/jung-rebecca.jpg)
+
+Campus Hamburg
+
+**Rebecca Jung**  
+[+49 40.3 19 93 39-46](tel:+4940319933946)  
+[rebecca.jung@ism.de](mailto:rebecca.jung@ism.de)
+
+---
+
+## Do you have any questions about studying? Please contact us!
+
+Send us your questions from Monday to Friday. We'll reply from 10 am to 3 pm (CET German time) on weekdays. Looking forward to chat! Alternatively, you can use our ChatBot or send us an email at [study@ism.de](mailto:study@ism.de).
+
+[To the Whatsapp Chat](https://wa.me/4915141976803 "chat with us!")
+
+Our student advisors are happy to answer all your questions about the ISM and our programs as well as financing options in a **personal online appointment.**
+
+Alternatively, you can simply come by your favorite campus on Wednesdays from 2:00 to 4:00 p.m. - no prior registration needed.
+
+[Get in touch for a consultation](/consultation-form "Get in touch for a consultation")
+
+##### 
+
+##### Your Master Study Advisors
+
+![Antonia Rudi](/images/ism-images/verwaltung/pereira.jpg)
+
+Campus Dortmund
+
+**Christopher Pereira**  
+[+49 231.97 51 39-43](tel:+4923197513943)  
+[christopher.pereira@ism.de](mailto:christopher.pereira@ism.de)
+
+[![Yosra Saleh SM Study advisor](/images/ism-images/verwaltung/salah-yosra-master.jpg)](/images/ism-images/verwaltung/luna-antonio.jpg)
+
+Campus Frankfurt/Main
+
+**Yosra Salah**  
+[+49](tel:+49696605936749) [69.66 05 93 67-49](tel:+49696605936749)  
+[yosra.salah@ism.de](mailto:yosra.salah@ism.de)
+
+![Michaela Feldman](/images/ism-images/verwaltung/luna-antonio.jpg)
+
+Campus Stuttgart
+
+**Antonio Luna**[+49 711.51 89 62-243](tel:+49711518962243)  
+[antonio.luna@ism.de](mailto:antonio.luna@ism.de)
+
+![Nina Weidemann](/images/ism-images/verwaltung/weidemann.jpg)
+
+Campus Munich
+
+**Nina Weidemann**  
+[+49 89.2 00 03 50-42](tel:+4989200035042)  
+[nina.weidemann@ism.de](mailto:nina.weidemann@ism.de)
+
+![Florian Dorste](/images/ism-images/verwaltung/aslanidou-iulia.jpg)
+
+Campus Cologne
+
+**Ioulia Aslanidou**  
+[+49 221.27 09 95-54](tel:+4922127099554)  
+[ioulia.aslanidou@ism.de](mailto:ioulia.aslanidou@ism.de)
+
+![Jana Gripshoefer](/images/ism-images/verwaltung/gripshoefer.jpg)
+
+Campus Hamburg
+
+**Jana Gripshöfer**  
+[+49 40.3 19 93 39-42](telto:%20004940319933942)  
+[jana.gripshoefer@ism.de](mailto:jana.gripshoefer@ism.de)
+
+![Sindy Schulz](/images/ism-images/verwaltung/sindy-schulz.jpg)
+
+Campus Berlin
+
+**Sindy Rode**  
+[+49 30.3 15 19 35-175](tel:+49303151935175)  
+[sindy.rode@ism.de](mailto:sindy.rode@ism.de)
+
+
+
+
+###### What to study?
+
+[Study International Management](/international-management-programs)
+
+[Study Data Science Programs](/data-science-programs)
+
+[Study a Business Informatics Degree](/business-informatic-degree)
+
+[Study Logistics and Supply Chain Management](/logistics-and-supply-chain-management "Study Logistics and Supply Chain Management ")
+
+[Study in Germany - for Indian Students](/study-in-germany-for-indian-students)
+
+[Bachelor in Germany](/bachelor-in-germany "Bachelor in Germany")
+
+[Bachelor in Management Studies](/bachelor-in-management-studies "Bachelor in management studies in germany at ISM")
+
+[B.Sc. International Management](/full-degree-students/bachelor-programs/bachelor-international-management/overview)
+
+[B.Sc. Finance & Management](/full-degree-students/bachelor-programs/bachelor-finance/overview)
+
+[B.Sc. Applied Data Science & Business Analytics](/full-degree-students/bachelor-programs/bachelor-data-science-and-business-analytics/overview "B.Sc. in Data Science")
+
+[B.Sc. Information Systems](/full-degree-students/bachelor-programs/bachelor-information-systems/overview)
+
+[Master in Germany](/master-in-germany "Master in Germany")
+
+[M.Sc. International Management](/full-degree-students/master-programs/master-international-management/overview "M.Sc. in International Management")
+
+[M.Sc. Data Science & Business Intelligence](/full-degree-students/master-programs/master-business-intelligence/overview "Master of Data Science & Business Intelligence")
+
+[M.A. Strategic Marketing Management](/full-degree-students/master-programs/marketing-master/overview)
+
+[M.Sc. Digital Marketing](/full-degree-students/master-programs/master-digital-marketing/overview "Online Marketing Master's Degree")
+
+[M.Sc. Logistics & Supply Chain](/full-degree-students/master-programs/master-logistics/overview)
+
+[M.Sc. Finance](/full-degree-students/master-programs/master-finance/overview "Master's in Finance")
+
+[M.Sc. International Business](/full-degree-students/master-programs/master-international-business/overview)
+
+[M.A. Luxury and Fashion Management](/full-degree-students/master-programs/sales-management/overview)
+
+[M.A. Strategic Sports Management](/full-degree-students/master-programs/master-sports-management/overview)
+
+[M.Sc. Psychology & Management](/full-degree-students/master-programs/master-psychology-management/overview "Master of Psychology and Management")
+
+[M.A Entrepreneurship](/full-degree-students/master-programs/entrepreneurship-program/overview)
+
+[MBA in General Management (full-time)](/full-degree-students/mba-programs/mba-general-management-full-time/overview)
+
+[MBA in General Management (part-time)](/full-degree-students/mba-programs/mba-general-management-part-time/overview)
+
+[Online Distance Learning @ ISM](https://ism-fernstudium.de/en/)
+
+###### Contact
+
+[**0151.41 97 68 03**](https://wa.me/4915141976803)  
+We reply Monday to Friday, 10:00 am - 03:00 pm (CET) or the next working day at the latest.
+
+[Contact](/contact)
+
+[Info flyers](/request-info-flyers)
+
+[FAQs](/prospective-students/faqs)
+
+[MyISM](https://my.ism.de/en/index)
+
+[ISM Blog & News](/blog)
+
+[Press](/university/press)
+
+[ISM-Shop](https://shop.ism.de/)
+
+###### Legal
+
+[Privacy Policy](/privacy-policy)
+
+[Whistleblower Act](/whistleblower-protection-act)
+
+[Impressum](/impressum)
+
+[Privacy Settings](#)
+
+[Accessibility declaration](/accessibility-declaration)
+
+
+
+
+
+
+
+
+![close popup button]()
+×
+
+![close popup button]()
+×
+
+- [Info flyers](/request-info-flyers)
+- [Consultation](/consultation-form)
+- [Application](/admission-test-registration)
+
+![close popup button]()
+×
+
+![close popup button]()
+×
+
+![scroll to top icon](/images/ism-images/allgemein/scroll-to-top-icon.svg)

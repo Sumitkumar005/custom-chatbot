@@ -1,0 +1,14 @@
+{
+  "universities": [
+    {
+      "university_id": "24-25CA.WUCatalog",
+      "pdf_path": "data/24-25CA.WUCatalog.pdf",
+      "faiss_index_path": "faiss_indexes/24-25CA.WUCatalog"
+    },
+    {
+      "university_id": "App Form MBA 2026",
+      "pdf_path": "data/App Form MBA 2026.pdf",
+      "faiss_index_path": "faiss_indexes/App Form MBA 2026"
+    }
+  ]
+}

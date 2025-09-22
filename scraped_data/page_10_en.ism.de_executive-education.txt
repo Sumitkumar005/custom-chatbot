@@ -1,0 +1,329 @@
+Accessibility declaration
+
+
+
+
+
+
+[Skip to main content](#tm-main)
+
+[![ISM Logo](/templates/yootheme/cache/7c/logo-ism-7c972c8f.png)](https://en.ism.de/)
+
+- [![](/images/ism-images/allgemein/de-mobile.png#thumbnail=20%2C20%2C&srcset=1)](https://ism.de)
+
+- Full Degree Students
+  - [Bachelor's Programs](/full-degree-students/bachelor-programs)
+  - [Master's Programs](/full-degree-students/master-programs)
+  - [MBA Programs](/full-degree-students/mba-programs)
+- Exchange Students
+  - [Your Study Abroad Semester at ISM](/exchange-students/study-abroad-semester)
+  - [International Business Certificate](/exchange-students/international-business-certificate)
+  - [Application](/exchange-students/application)
+- Prospective Students
+  - [Why ISM?](/prospective-students/why-ism)
+  - [Rankings and Figures](/prospective-students/rankings-figures)
+  - [What to study](/prospective-students/what-to-study)
+  - [Study Finder](/prospective-students/study-finder)
+  - [Study financing](/prospective-students/study-financing)
+  - [Plan your studies at ISM](/prospective-students/plan-your-studies)
+  - [Student Life in Germany](/prospective-students/student-life-in-germany)
+  - [FAQs](/prospective-students/faqs)
+  - [Request info flyers](/request-info-flyers)
+- PhD & DBA Programs
+  - [Doctoral Programs](/phd-dba/doctoral-programs)
+  - [Strathclyde Business School](/phd-dba/strathclyde-business-school)
+  - [Bond University](/phd-dba/bond-university)
+  - [Lovely Professional University (LPU)](/phd-dba/lovely-professional-university)
+  - [Edinburgh Napier University (DBA)](/phd-dba/edinburgh-napier-university)
+  - [Westcliff University (DBA)](/phd-dba/westcliff-university)
+- [Executive Education](/executive-education)
+- Campuses
+  - [Overview](/campuses/overview)
+  - [Dortmund](/campuses/dortmund)
+  - [Frankfurt/Main](/campuses/frankfurt-main)
+  - [Munich](/campuses/munich)
+  - [Hamburg](/campuses/hamburg)
+  - [Cologne](/campuses/cologne)
+  - [Stuttgart](/campuses/stuttgart)
+  - [Berlin](/campuses/berlin)
+  - [Distance Learning](/campuses/distance-learning)
+- Services
+  - [Study Advisor](/services/study-advisor)
+  - [International Office](/services/international-office)
+    - [Financing your Study Abroad](/services/international-office/study-abroad-scholarships)
+  - [Career Center](/services/career-center)
+  - [Student Office](/services/student-office)
+  - [Language Center](/services/language-center)
+  - [Library](/services/library)
+  - [Startup Consulting](/services/startup-consulting)
+  - [Alumni Management](/services/alumnimanagement)
+- University
+  - [Head of University](/university/head-university)
+  - [Director of studies](/university/director-studies)
+  - [Research Activities](/university/research-activities)
+  - [Board of Trustees](/university/board-of-trustees)
+  - [Sustainability at ISM](/university/sustainability-at-ism)
+  - [Press](/university/press)
+- [Blog & News](/blog)
+
+
+
+[![ISM Logo](/templates/yootheme/cache/7c/logo-ism-7c972c8f.png)](https://en.ism.de/)
+
+- Full Degree Students
+
+  - [Bachelor's Programs](/full-degree-students/bachelor-programs)
+  - [Master's Programs](/full-degree-students/master-programs)
+  - [MBA Programs](/full-degree-students/mba-programs)
+- Exchange Students
+
+  - [Your Study Abroad Semester at ISM](/exchange-students/study-abroad-semester)
+  - [International Business Certificate](/exchange-students/international-business-certificate)
+  - [Application](/exchange-students/application)
+- Prospective Students
+
+  - [Why ISM?](/prospective-students/why-ism)
+  - [Rankings and Figures](/prospective-students/rankings-figures)
+  - [What to study](/prospective-students/what-to-study)
+  - [Study Finder](/prospective-students/study-finder)
+  - [Study financing](/prospective-students/study-financing)
+  - [Plan your studies at ISM](/prospective-students/plan-your-studies)
+  - [Student Life in Germany](/prospective-students/student-life-in-germany)
+  - [FAQs](/prospective-students/faqs)
+  - [Request info flyers](/request-info-flyers)
+- PhD & DBA Programs
+
+  - [Doctoral Programs](/phd-dba/doctoral-programs)
+  - [Strathclyde Business School](/phd-dba/strathclyde-business-school)
+  - [Bond University](/phd-dba/bond-university)
+  - [Lovely Professional University (LPU)](/phd-dba/lovely-professional-university)
+  - [Edinburgh Napier University (DBA)](/phd-dba/edinburgh-napier-university)
+  - [Westcliff University (DBA)](/phd-dba/westcliff-university)
+- [Executive Education](/executive-education)
+- Campuses
+
+  - [Overview](/campuses/overview)
+  - [Dortmund](/campuses/dortmund)
+  - [Frankfurt/Main](/campuses/frankfurt-main)
+  - [Munich](/campuses/munich)
+  - [Hamburg](/campuses/hamburg)
+  - [Cologne](/campuses/cologne)
+  - [Stuttgart](/campuses/stuttgart)
+  - [Berlin](/campuses/berlin)
+  - [Distance Learning](/campuses/distance-learning)
+- Services
+
+  - [Study Advisor](/services/study-advisor)
+  - [International Office](/services/international-office)
+  - [Career Center](/services/career-center)
+  - [Student Office](/services/student-office)
+  - [Language Center](/services/language-center)
+  - [Library](/services/library)
+  - [Startup Consulting](/services/startup-consulting)
+  - [Alumni Management](/services/alumnimanagement)
+- University
+
+  - [Head of University](/university/head-university)
+  - [Director of studies](/university/director-studies)
+  - [Research Activities](/university/research-activities)
+  - [Board of Trustees](/university/board-of-trustees)
+  - [Sustainability at ISM](/university/sustainability-at-ism)
+  - [Press](/university/press)
+- [Blog & News](/blog)
+
+
+
+# Accessibility declaration
+
+As the website operator, we (International School of Management (ISM)) endeavor to design the website in accordance with the relevant accessibility regulations. The following legal provisions apply to us:
+
+- Law of the State of North Rhine-Westphalia on equal opportunities for people with disabilities (Behindertengleichstellungsgesetz Nordrhein-Westfalen - BGG NRW)
+- Barrier-free Information Technology Ordinance North Rhine-Westphalia (BITVNRW)
+
+## Website
+
+This accessibility statement applies to the website [https://ism.de](https://ism.de/).
+
+## Feedback and contact details
+
+Have you noticed any shortcomings in the accessibility of content on our website or do you have any comments or questions about accessibility? Please feel free to contact us at:  
+International School of Management (ISM)  
+Otto-Hahn-Straße 19  
+44227 Dortmund  
+Tel.: 0231.97 51 39-0  
+E-Mail: [ism.dortmund@ism.de](mailto:ism.dortmund@ism.de)
+
+## Telephone help for people with disabilities
+
+We have a telephone help hotline for people with disabilities and users of assistive technologies. You can reach them on the following telephone number:  
+Tel.: **0231.97 51 39-0**
+
+## Status of compatibility with the requirements
+
+This website is not fully compliant with the accessibility regulations that apply to us. In detail:
+
+### Incompatibility with the legal provisions on accessibility
+
+The content listed below does not comply with the relevant accessibility regulations:  
+PDF files may be difficult to read. Likewise, not all videos, especially older ones, have subtitles or alternatives
+
+### Disproportionate burden
+
+The following content is not made available barrier-free because this would result in a disproportionate burden for us:
+
+- Some pdf information cannot be displayed on the website in an alternative way within a reasonable framework.
+- Older videos cannot be converted accordingly and would require a complete redesign at high cost.
+
+### Exceptions to the scope of application of the accessibility regulations
+
+The following non-accessible content on this website does not fall under the scope of the accessibility regulations:
+
+- Archive of news articles
+- Video recordings of study programs
+
+### Accessible alternatives
+
+We provide the following accessible alternatives for our non-accessible content:
+
+- In addition to the directions, the postal addresses are also communicated
+- There are alternatives for every communication channel, whether by post, telephone or digitally.
+
+### Evaluation method
+
+The website was self-evaluated using appropriate tools.
+
+## Further measures to improve barrier-free access to our website
+
+We are constantly striving to improve the accessibility of our website. We are currently doing the following:
+
+In the future development of the website, the measures that have already been taken will be continuously considered further. This concerns not only the issue of color contrasts, but also the subtitles for videos or the integration of pdf documents.
+
+## Enforcement procedure
+
+If you believe that you have been disadvantaged by the inadequate accessibility of our website, you can contact the responsible enforcement body. You can reach them at:
+
+Ombudsman's Office for Accessible Information Technology of the State of North Rhine-Westphalia at the State Commissioner for People with Disabilities
+
+Fürstenwall 25  
+40219 Düsseldorf
+
+E-Mail: [ombudsstelle-barrierefreie-it@mags.nrw.de](mailto:ombudsstelle-barrierefreie-it@mags.nrw.de)
+
+## Preparation of this accessibility statement
+
+This declaration was created on 25.06.2025.  
+The declaration was last reviewed on 25.06.2025.  
+Quelle: [eRecht24](https://www.e-recht24.de/).
+
+
+
+
+###### What to study?
+
+[Study International Management](/international-management-programs)
+
+[Study Data Science Programs](/data-science-programs)
+
+[Study a Business Informatics Degree](/business-informatic-degree)
+
+[Study Logistics and Supply Chain Management](/logistics-and-supply-chain-management "Study Logistics and Supply Chain Management ")
+
+[Study in Germany - for Indian Students](/study-in-germany-for-indian-students)
+
+[Bachelor in Germany](/bachelor-in-germany "Bachelor in Germany")
+
+[Bachelor in Management Studies](/bachelor-in-management-studies "Bachelor in management studies in germany at ISM")
+
+[B.Sc. International Management](/full-degree-students/bachelor-programs/bachelor-international-management/overview)
+
+[B.Sc. Finance & Management](/full-degree-students/bachelor-programs/bachelor-finance/overview)
+
+[B.Sc. Applied Data Science & Business Analytics](/full-degree-students/bachelor-programs/bachelor-data-science-and-business-analytics/overview "B.Sc. in Data Science")
+
+[B.Sc. Information Systems](/full-degree-students/bachelor-programs/bachelor-information-systems/overview)
+
+[Master in Germany](/master-in-germany "Master in Germany")
+
+[M.Sc. International Management](/full-degree-students/master-programs/master-international-management/overview "M.Sc. in International Management")
+
+[M.Sc. Data Science & Business Intelligence](/full-degree-students/master-programs/master-business-intelligence/overview "Master of Data Science & Business Intelligence")
+
+[M.A. Strategic Marketing Management](/full-degree-students/master-programs/marketing-master/overview)
+
+[M.Sc. Digital Marketing](/full-degree-students/master-programs/master-digital-marketing/overview "Online Marketing Master's Degree")
+
+[M.Sc. Logistics & Supply Chain](/full-degree-students/master-programs/master-logistics/overview)
+
+[M.Sc. Finance](/full-degree-students/master-programs/master-finance/overview "Master's in Finance")
+
+[M.Sc. International Business](/full-degree-students/master-programs/master-international-business/overview)
+
+[M.A. Luxury and Fashion Management](/full-degree-students/master-programs/sales-management/overview)
+
+[M.A. Strategic Sports Management](/full-degree-students/master-programs/master-sports-management/overview)
+
+[M.Sc. Psychology & Management](/full-degree-students/master-programs/master-psychology-management/overview "Master of Psychology and Management")
+
+[M.A Entrepreneurship](/full-degree-students/master-programs/entrepreneurship-program/overview)
+
+[MBA in General Management (full-time)](/full-degree-students/mba-programs/mba-general-management-full-time/overview)
+
+[MBA in General Management (part-time)](/full-degree-students/mba-programs/mba-general-management-part-time/overview)
+
+[Online Distance Learning @ ISM](https://ism-fernstudium.de/en/)
+
+###### Contact
+
+[**0151.41 97 68 03**](https://wa.me/4915141976803)  
+We reply Monday to Friday, 10:00 am - 03:00 pm (CET) or the next working day at the latest.
+
+[Contact](/contact)
+
+[Info flyers](/request-info-flyers)
+
+[FAQs](/prospective-students/faqs)
+
+[MyISM](https://my.ism.de/en/index)
+
+[ISM Blog & News](/blog)
+
+[Press](/university/press)
+
+[ISM-Shop](https://shop.ism.de/)
+
+###### Legal
+
+[Privacy Policy](/privacy-policy)
+
+[Whistleblower Act](/whistleblower-protection-act)
+
+[Impressum](/impressum)
+
+[Privacy Settings](#)
+
+[Accessibility declaration](/accessibility-declaration)
+
+
+
+
+
+
+
+
+![close popup button]()
+×
+
+![close popup button]()
+×
+
+- [Info flyers](/request-info-flyers)
+- [Consultation](/consultation-form)
+- [Application](/admission-test-registration)
+
+![close popup button]()
+×
+
+![close popup button]()
+×
+
+![scroll to top icon](/images/ism-images/allgemein/scroll-to-top-icon.svg)
